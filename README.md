@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shabnam</h1>
+<h1 align="center">Hello there, I am Shabnam</h1>
 <h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabnamhaque&label=Profile%20views&color=0e75b6&style=flat" alt="shabnamhaque" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me </h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/shabnamhaque03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/shabnamhaque03" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/shabnamhaque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shabnamhaque/" height="30" width="40" /></a>
